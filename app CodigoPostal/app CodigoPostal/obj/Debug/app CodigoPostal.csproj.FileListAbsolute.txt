@@ -1,0 +1,17 @@
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\app CodigoPostal.exe.config
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\app CodigoPostal.exe
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\app CodigoPostal.pdb
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.csproj.AssemblyReference.cache
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app_CodigoPostal.Form1.resources
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app_CodigoPostal.Properties.Resources.resources
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.csproj.GenerateResource.cache
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.csproj.CoreCompileInputs.cache
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.exe
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.pdb
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\obj\Debug\app CodigoPostal.csproj.CopyComplete
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\lpena\source\repos\app CodigoPostal\app CodigoPostal\bin\Debug\GemBox.Spreadsheet.xml
